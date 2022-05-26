@@ -5,6 +5,24 @@ body
     font-family: "Arial";
     font-size: 16px;
 }
+#cabecera
+{
+    background: #33A;
+    box-shadow: opx 2px 220px opx rgba(0, 0, 0, 0.5em);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.0em;
+}
+
 
 #container
 {
